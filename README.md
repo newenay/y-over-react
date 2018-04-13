@@ -1,7 +1,10 @@
-# y-over-react 
-is simply an e-learning UI/UX platform to present learning content & media within a slide (and lesson/module packets on a larger scale).  Created using React & Redux (just a shell right now) will be viewable in any browser, tablet, or mobile device (utilizing bootstrap/reactstrap).  Lesson bullets to be imported by .xml/json and parse per slide to go along with audion timing or cues.
+# y-over-react
 
-Could use help with:
+## Purpose:
+
+Create an e-learning UI/UX platform to present learning content & media within a slide (lesson/module on a larger scale).  Created using React & Redux (just a shell right now) will be viewable in any browser, tablet, or mobile device (utilizing bootstrap/reactstrap). Lesson bullets to be imported by .xml/json and parse per slide to go along with audion timing or cues.
+
+## Could use help with:
 <ul>
   <li>Expanding the store variables (currently only have slide #)</li>
   <li>Tie-in debugger to list "Variables" below interface</li>
