@@ -1,0 +1,1 @@
+# y-over-react This is distributed learning UI/UX platform made to cycle dynamic learning content through slides (and lesson packets).  Created using React & Redux (in-process) to eventually be hosted on an LMS (SCORM 2004), but should be viewable in any browser, tablet, or mobile device.
